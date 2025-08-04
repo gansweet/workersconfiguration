@@ -76,3 +76,6 @@ www.zsu.gov.u#57HK
 104.19.144.212:443#1CMCC
 104.17.100.185:443#2CMCC
 104.18.85.29:443#3CMCC
+usa.visa.com:443#TW
+www.visa.com.tw:2053#TW
+www.visa.com.sg:8443#TW
