@@ -33,10 +33,10 @@ iplocation.io#32US
 log.bpminecraft.com#33US 
 singapore.com#34US 
 skk.moe#35US 
-time.cloudflare.com#36US 
+104.19.133.56:443#36US 
 whatismyipaddress.com#37US 
 www.baipiao.eu.org#38US 
-www.boba88slot.com#39US 
+104.25.225.145:443#39US 
 www.csgo.com#40US 
 www.gco.gov.qa#41KR
 www.glassdoor.com#42KR
@@ -51,10 +51,10 @@ www.udemy.com#50JP
 www.visa.com#51SG
 www.visa.com.hk#52SG
 www.whatismyip.com#53SG
-www.who.int#54SG
+104.19.112.26:443#54US
 www.whoer.net#55SG
 www.wto.org#56SG
-www.zsu.gov.u#57HK
+104.19.28.59:443#57US
 [2a06:98c1:3102:448f:53d2:c3ec:4301:50c5]:443#1HKv6
 [2606:4700:4401:2653:9576:43de:fbe6:8232]:443#2HKv6
 [2803:f800:52:0177:b4a4:1f9b:1fab:f8eb]:443#3HKv6
